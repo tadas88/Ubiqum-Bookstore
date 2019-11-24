@@ -1,3 +1,11 @@
+# Welcome to the Ubiqum online Bookstore!
+
+This project had a 48 hour deadline to deliver a functional front for a store following the mock up provided by the client.
+
+JavaScript, HTML, CSS, FancyBox, BootStrap
+
+
+
 # fancyBox
 
 jQuery lightbox script for displaying images, videos and more.
